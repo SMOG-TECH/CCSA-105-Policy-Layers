@@ -1,2 +1,2 @@
 # CCSA-105-Policy-Layers
-CCSA105 Policy Layers practical report covering Check Point SmartConsole configuration, Ordered and Inline Layers, firewall rules, screenshots, and key learning outcomes.
+CCSA105 Policy Layers practical assignment demonstrating the configuration and management of Ordered and Inline Policy Layers in Check Point SmartConsole, including rulebase design, cleanup rules, layer enforcement, sharing, and policy management. The repository contains documented practical tasks, screenshots, observations, and theory answers based on the CCSA105 Module 5 course material. Policy installation and traffic verification tasks were limited by the unavailable lab network topology.
